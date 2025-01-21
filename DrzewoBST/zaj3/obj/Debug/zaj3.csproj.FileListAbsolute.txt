@@ -1,0 +1,10 @@
+C:\Users\Przemek\source\repos\zaj3\zaj3\obj\Debug\zaj3.csproj.AssemblyReference.cache
+C:\Users\Przemek\source\repos\zaj3\zaj3\obj\Debug\zaj3.Properties.Resources.resources
+C:\Users\Przemek\source\repos\zaj3\zaj3\obj\Debug\zaj3.csproj.GenerateResource.cache
+C:\Users\Przemek\source\repos\zaj3\zaj3\obj\Debug\zaj3.csproj.CoreCompileInputs.cache
+C:\Users\Przemek\source\repos\zaj3\zaj3\bin\Debug\zaj3.exe.config
+C:\Users\Przemek\source\repos\zaj3\zaj3\bin\Debug\zaj3.exe
+C:\Users\Przemek\source\repos\zaj3\zaj3\bin\Debug\zaj3.pdb
+C:\Users\Przemek\source\repos\zaj3\zaj3\obj\Debug\zaj3.exe
+C:\Users\Przemek\source\repos\zaj3\zaj3\obj\Debug\zaj3.pdb
+C:\Users\Przemek\source\repos\zaj3\zaj3\obj\Debug\zaj3.Form1.resources
