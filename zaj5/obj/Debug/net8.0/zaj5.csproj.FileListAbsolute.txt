@@ -1,0 +1,14 @@
+C:\Users\Przemek\source\repos\zaj5\zaj5\bin\Debug\net8.0\zaj5.exe
+C:\Users\Przemek\source\repos\zaj5\zaj5\bin\Debug\net8.0\zaj5.deps.json
+C:\Users\Przemek\source\repos\zaj5\zaj5\bin\Debug\net8.0\zaj5.runtimeconfig.json
+C:\Users\Przemek\source\repos\zaj5\zaj5\bin\Debug\net8.0\zaj5.dll
+C:\Users\Przemek\source\repos\zaj5\zaj5\bin\Debug\net8.0\zaj5.pdb
+C:\Users\Przemek\source\repos\zaj5\zaj5\obj\Debug\net8.0\zaj5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Przemek\source\repos\zaj5\zaj5\obj\Debug\net8.0\zaj5.AssemblyInfoInputs.cache
+C:\Users\Przemek\source\repos\zaj5\zaj5\obj\Debug\net8.0\zaj5.AssemblyInfo.cs
+C:\Users\Przemek\source\repos\zaj5\zaj5\obj\Debug\net8.0\zaj5.csproj.CoreCompileInputs.cache
+C:\Users\Przemek\source\repos\zaj5\zaj5\obj\Debug\net8.0\zaj5.dll
+C:\Users\Przemek\source\repos\zaj5\zaj5\obj\Debug\net8.0\refint\zaj5.dll
+C:\Users\Przemek\source\repos\zaj5\zaj5\obj\Debug\net8.0\zaj5.pdb
+C:\Users\Przemek\source\repos\zaj5\zaj5\obj\Debug\net8.0\zaj5.genruntimeconfig.cache
+C:\Users\Przemek\source\repos\zaj5\zaj5\obj\Debug\net8.0\ref\zaj5.dll
